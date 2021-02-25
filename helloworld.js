@@ -2,7 +2,7 @@
 
 const http = require('http');
 
-const hostname = '10.202.31.228';
+const hostname = 'localhost';
 const port = 3000;
 
 const server = http.createServer((req, res) => {
