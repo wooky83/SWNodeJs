@@ -18,7 +18,7 @@
   "homepage": "https://github.com/wooky83/SWNodeJs#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "file-system": "^2.2.2"
   }
 }
